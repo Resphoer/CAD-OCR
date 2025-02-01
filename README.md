@@ -18,6 +18,8 @@ PaddleOCR轻量模型无法满足项目需求，需要使用高精度模型，�
 
 - [百度网盘](https://pan.baidu.com/s/1BZWIDFB4O3AsOcLMAAqOfw?pwd=w8mg) 提取码: w8mg
 
+权重文件解压后放在```weights```目录。
+
 ### 安装PaddlePaddle
 根据系统配置安装指定PaddlePaddle版本。
 
