@@ -1,0 +1,6 @@
+paddleocr
+tiktoken
+openai
+dashscope
+alibabacloud_bailian20231229==2.0.0
+gradio
